@@ -1,7 +1,7 @@
 # UHMaker
 UHMaker is a desktop app developed using Python. It is used to draw smoothened FER UNIT HYDROGRAPHS along with providing the discharge for unit time intervals.
 
-###REFER TO THE PROVIDED RESOURCES BELOW TO KNOW ABOUT UNIT HYDROGRAPH
+**REFER TO THE PROVIDED RESOURCES BELOW TO KNOW ABOUT UNIT HYDROGRAPH**
 https://serc.carleton.edu/hydromodules/steps/derivation_unit.html
 
 
@@ -26,10 +26,10 @@ The GUI is also developed in Python and the libraries used include:
 **->QTDesigner -** Qt Designer is a Qt tool used for designing and building graphical user interfaces (GUIs) with Qt Widgets
 
 ## HOW TO RUN THE APP?
-###STEP - 1 : Download all the given files and place them in a single folder of your choice.
-###STEP - 2 : N
-###STEP - 3 : 
-###STEP - 4 : 
+**STEP - 1 : Download all the given files and place them in a single folder of your choice.
+STEP - 2 : N
+STEP - 3 : 
+STEP - 4 :** 
 
 
 
