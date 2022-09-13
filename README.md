@@ -16,6 +16,7 @@ The algorithm used is developed in Python using libraries such as:
 The GUI is also developed in Python and the libraries used include:
 **QT -** Qt is cross-platform software for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms.
 **->PyQT -** PyQt is a Python binding of the cross-platform GUI toolkit Qt, implemented as a Python plug-in used to import widgets and load UI screens. 
+
 **->QTDesigner -** Qt Designer is a Qt tool used for designing and building graphical user interfaces (GUIs) with Qt Widgets
 
 ## HOW TO RUN THE APP?
