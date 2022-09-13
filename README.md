@@ -7,9 +7,13 @@ https://serc.carleton.edu/hydromodules/steps/derivation_unit.html
 
 ## Algorithm
 The algorithm used is developed in Python using libraries such as:
+
 **SciPy -** Used for interpolation and formation of the graph.
+
 **Matplotlib -** Used to plot the graph.
+
 **Numpy -** Used to access functions of numpy.
+
 **OpenPyxl -** Used to connect the algorithm and export the graph to excel.
 
 ## Graphical User Interface(GUI)
