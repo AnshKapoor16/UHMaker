@@ -34,7 +34,7 @@ The GUI is also developed in Python and the libraries used include:
 
 **STEP - 4 : Run the file named "HomeScreenUpdated.py".**
 
-**STEP - 5 : Input the values(you can use these values for trial(Select the subzone: 3(e), L = 128.48, A = 2532.6, S = 0.69, Lc =	55.27).**
+**STEP - 5 : Input the values(you can use these values for trial(Select the subzone: 3(e), L = 128.48, A = 2532.6, S = 0.69, Lc =	55.27)).**
 
 **STEP - 6 : Enter the name of the excel file in which your graph and values will be exported.**
 
