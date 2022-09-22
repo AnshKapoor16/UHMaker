@@ -42,7 +42,7 @@ The GUI is also developed in Python and the libraries used include:
 
 **STEP-8 : You can access your excel file in the same folder.**
 
-##SCREENSHOTS
+## SCREENSHOTS📷
 ![HOME SCREEN](https://user-images.githubusercontent.com/84740041/191741762-2c945352-6a50-490e-ab14-a06fbdf27c80.jpeg)
 
 ![GRAPH SCREEN](https://user-images.githubusercontent.com/84740041/191741793-1cbb0be0-4cc1-416f-a107-3d93f80c427b.jpeg)
