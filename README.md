@@ -1,11 +1,11 @@
-# UHMaker
+# UHMaker📈
 UHMaker is a desktop app developed using Python. It is used to draw smoothened FER UNIT HYDROGRAPHS along with providing the discharge for unit time intervals.
 
 **REFER TO THE PROVIDED RESOURCES BELOW TO KNOW ABOUT UNIT HYDROGRAPH**
 https://serc.carleton.edu/hydromodules/steps/derivation_unit.html
 
 
-## Algorithm
+## Algorithm📜
 The algorithm used is developed in Python using libraries such as:
 
 **SciPy -** Used for interpolation and formation of the graph.
@@ -16,7 +16,7 @@ The algorithm used is developed in Python using libraries such as:
 
 **OpenPyxl -** Used to connect the algorithm and export the graph to excel.
 
-## Graphical User Interface(GUI)
+## Graphical User Interface(GUI)💻
 The GUI is also developed in Python and the libraries used include:
 
 **QT -** Qt is cross-platform software for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms.
@@ -25,7 +25,7 @@ The GUI is also developed in Python and the libraries used include:
 
 **->QTDesigner -** Qt Designer is a Qt tool used for designing and building graphical user interfaces (GUIs) with Qt Widgets
 
-## HOW TO RUN THE APP?
+## HOW TO RUN THE APP?🤔
 **STEP - 1 : Download all the given files and place them in a single folder of your choice.**
 
 **STEP - 2 : Now make a virtual environment for python or use your global environment of python to install the required libraries: SciPy, Matplotlib, Numpy, Openpyxl, PyQt5 and QtDesigner. You can use 'pip' command in the console to install the libraries(pip install library_name).**
@@ -41,6 +41,11 @@ The GUI is also developed in Python and the libraries used include:
 **STEP - 7 : Click on 'Export to Excel'.**
 
 **STEP-8 : You can access your excel file in the same folder.**
+
+##SCREENSHOTS
+![HOME SCREEN](https://user-images.githubusercontent.com/84740041/191741762-2c945352-6a50-490e-ab14-a06fbdf27c80.jpeg)
+
+![GRAPH SCREEN](https://user-images.githubusercontent.com/84740041/191741793-1cbb0be0-4cc1-416f-a107-3d93f80c427b.jpeg)
 
 
 
